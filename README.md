@@ -151,6 +151,9 @@ pip install -r backend/requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
+> [!NOTE]
+> For the pinned `spacy==3.8.18`, the matching trained pipeline version is `en_core_web_sm` version `3.8.0`.
+
 Run the FastAPI application from the repo root:
 
 ```bash
