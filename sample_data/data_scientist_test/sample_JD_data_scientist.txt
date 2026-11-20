@@ -1,0 +1,38 @@
+Job Title: Data Scientist (Machine Learning)
+
+About the Role
+We are hiring a Data Scientist to join our analytics team. You will work with
+product and engineering teams to turn raw data into models that improve
+customer retention and forecasting accuracy.
+
+Responsibilities
+- Build and evaluate machine learning models such as classification and
+  regression models for churn prediction and demand forecasting.
+- Analyse large datasets using Python, Pandas and NumPy to find patterns and insights.
+- Write complex SQL queries (such as window functions and joins) on PostgreSQL or BigQuery.
+- Design experiments and apply statistical tests to measure model impact.
+- Package models with Docker and work with engineers to deploy them.
+- Communicate findings to non-technical stakeholders through dashboards and reports.
+
+Required Skills
+- Python
+- SQL
+- Machine Learning
+- scikit-learn
+- Pandas
+- NumPy
+- Statistics
+- Git
+
+Preferred Skills
+- PyTorch
+- TensorFlow
+- NLP
+- Spark
+- MLflow
+- AWS
+- Docker
+
+Qualifications
+- Minimum 2 years of experience in data science or machine learning.
+- Master's degree in Computer Science, Statistics, Mathematics or a related field.

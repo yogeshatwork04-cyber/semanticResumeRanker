@@ -1,0 +1,857 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Languages",
+      "aliases": [
+        "python",
+        "python3",
+        "python 3",
+        "py"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "fastapi",
+        "fast api",
+        "fast-api"
+      ]
+    },
+    {
+      "name": "Flask",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "flask",
+        "flask-restful"
+      ]
+    },
+    {
+      "name": "Django",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "django",
+        "django rest framework",
+        "drf"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Databases",
+      "aliases": [
+        "postgresql",
+        "postgres",
+        "psql",
+        "postgre"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "category": "Databases",
+      "aliases": [
+        "mysql",
+        "mariadb"
+      ]
+    },
+    {
+      "name": "SQLite",
+      "category": "Databases",
+      "aliases": [
+        "sqlite",
+        "sqlite3"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "category": "Databases",
+      "aliases": [
+        "mongodb",
+        "mongo",
+        "documentdb"
+      ]
+    },
+    {
+      "name": "Redis",
+      "category": "Databases",
+      "aliases": [
+        "redis",
+        "valkey",
+        "redis-server"
+      ]
+    },
+    {
+      "name": "SQLAlchemy",
+      "category": "Libraries & ORMs",
+      "aliases": [
+        "sqlalchemy",
+        "sqlalchemy 2",
+        "alembic",
+        "orm"
+      ]
+    },
+    {
+      "name": "Pydantic",
+      "category": "Libraries & ORMs",
+      "aliases": [
+        "pydantic",
+        "pydantic v2"
+      ]
+    },
+    {
+      "name": "Docker",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "docker",
+        "docker-compose",
+        "containerization",
+        "containers"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "kubernetes",
+        "k8s",
+        "kubectl",
+        "helm"
+      ]
+    },
+    {
+      "name": "AWS",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "aws",
+        "amazon web services",
+        "amazon aws",
+        "ec2",
+        "s3",
+        "lambda",
+        "ecs",
+        "fargate"
+      ]
+    },
+    {
+      "name": "GCP",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "gcp",
+        "google cloud",
+        "google cloud platform",
+        "gke",
+        "cloud run"
+      ]
+    },
+    {
+      "name": "Azure",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "azure",
+        "microsoft azure",
+        "azure app services"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "ci/cd",
+        "ci cd",
+        "continuous integration",
+        "continuous deployment",
+        "github actions",
+        "gitlab ci"
+      ]
+    },
+    {
+      "name": "Git",
+      "category": "Tools",
+      "aliases": [
+        "git",
+        "github",
+        "gitlab",
+        "bitbucket",
+        "version control"
+      ]
+    },
+    {
+      "name": "Linux",
+      "category": "Operating Systems & Tools",
+      "aliases": [
+        "linux",
+        "ubuntu",
+        "debian",
+        "bash",
+        "shell scripting",
+        "unix"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "category": "Concepts & Architecture",
+      "aliases": [
+        "rest",
+        "restful",
+        "rest api",
+        "restful api",
+        "rest apis",
+        "restful apis",
+        "api design",
+        "restful web services",
+        "restful web service",
+        "restful services"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "category": "Concepts & Architecture",
+      "aliases": [
+        "graphql",
+        "apollo graphql",
+        "graphene"
+      ]
+    },
+    {
+      "name": "Microservices",
+      "category": "Concepts & Architecture",
+      "aliases": [
+        "microservices",
+        "microservice architecture",
+        "distributed systems",
+        "service-oriented"
+      ]
+    },
+    {
+      "name": "Message Queues",
+      "category": "Concepts & Architecture",
+      "aliases": [
+        "celery",
+        "sqs",
+        "message queue",
+        "message broker",
+        "pub/sub"
+      ]
+    },
+    {
+      "name": "Pytest",
+      "category": "Testing",
+      "aliases": [
+        "pytest",
+        "unit testing",
+        "tdd",
+        "test driven development",
+        "unittest",
+        "integration testing"
+      ]
+    },
+    {
+      "name": "NLP",
+      "category": "AI & Data Science",
+      "aliases": [
+        "nlp",
+        "natural language processing",
+        "text mining",
+        "spacy",
+        "nltk"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "category": "AI & Data Science",
+      "aliases": [
+        "machine learning",
+        "ml",
+        "deep learning"
+      ]
+    },
+    {
+      "name": "Pandas",
+      "category": "AI & Data Science",
+      "aliases": [
+        "pandas",
+        "data analysis",
+        "data processing"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "category": "Languages",
+      "aliases": [
+        "javascript",
+        "js",
+        "ecmascript"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "category": "Languages",
+      "aliases": [
+        "typescript",
+        "ts"
+      ]
+    },
+    {
+      "name": "React",
+      "category": "Frontend",
+      "aliases": [
+        "react",
+        "react.js",
+        "reactjs",
+        "react native"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "node.js",
+        "nodejs",
+        "node",
+        "express",
+        "express.js"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "aliases": [
+        "tailwind",
+        "tailwindcss",
+        "tailwind css"
+      ]
+    },
+    {
+      "name": "HTML/CSS",
+      "category": "Frontend",
+      "aliases": [
+        "html",
+        "html5",
+        "css",
+        "css3",
+        "sass",
+        "scss"
+      ]
+    },
+    {
+      "name": "SQL",
+      "category": "Languages",
+      "aliases": [
+        "sql",
+        "relational databases",
+        "rdbms"
+      ]
+    },
+    {
+      "name": "Java",
+      "category": "Languages",
+      "aliases": [
+        "java",
+        "core java",
+        "java se",
+        "java ee",
+        "jvm"
+      ]
+    },
+    {
+      "name": "Go",
+      "category": "Languages",
+      "aliases": [
+        "golang",
+        "go"
+      ]
+    },
+    {
+      "name": "C++",
+      "category": "Languages",
+      "aliases": [
+        "c++",
+        "cpp"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "spring boot",
+        "springboot",
+        "spring-boot"
+      ]
+    },
+    {
+      "name": "Spring Framework",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "spring framework",
+        "spring",
+        "spring core"
+      ]
+    },
+    {
+      "name": "Spring MVC",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "spring mvc",
+        "spring-mvc"
+      ]
+    },
+    {
+      "name": "Spring Data JPA",
+      "category": "Libraries & ORMs",
+      "aliases": [
+        "spring data jpa",
+        "spring data",
+        "spring-data-jpa"
+      ]
+    },
+    {
+      "name": "Hibernate",
+      "category": "Libraries & ORMs",
+      "aliases": [
+        "hibernate",
+        "hibernate orm"
+      ]
+    },
+    {
+      "name": "JPA",
+      "category": "Libraries & ORMs",
+      "aliases": [
+        "jpa",
+        "java persistence api"
+      ]
+    },
+    {
+      "name": "JUnit",
+      "category": "Testing",
+      "aliases": [
+        "junit",
+        "junit 5",
+        "junit 4",
+        "junit5",
+        "junit4"
+      ]
+    },
+    {
+      "name": "Mockito",
+      "category": "Testing",
+      "aliases": [
+        "mockito"
+      ]
+    },
+    {
+      "name": "Maven",
+      "category": "Tools",
+      "aliases": [
+        "maven",
+        "apache maven",
+        "mvn"
+      ]
+    },
+    {
+      "name": "Gradle",
+      "category": "Tools",
+      "aliases": [
+        "gradle"
+      ]
+    },
+    {
+      "name": "Kafka",
+      "category": "Concepts & Architecture",
+      "aliases": [
+        "kafka",
+        "apache kafka"
+      ]
+    },
+    {
+      "name": "RabbitMQ",
+      "category": "Concepts & Architecture",
+      "aliases": [
+        "rabbitmq"
+      ]
+    },
+    {
+      "name": "Jenkins",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "jenkins"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "category": "Languages",
+      "aliases": [
+        "kotlin"
+      ]
+    },
+    {
+      "name": "Struts",
+      "category": "Backend Frameworks",
+      "aliases": [
+        "struts",
+        "struts 2",
+        "struts2",
+        "apache struts"
+      ]
+    },
+    {
+      "name": "JDBC",
+      "category": "Libraries & ORMs",
+      "aliases": [
+        "jdbc",
+        "java database connectivity"
+      ]
+    },
+    {
+      "name": "Oracle",
+      "category": "Databases",
+      "aliases": [
+        "oracle",
+        "oracle db",
+        "oracle database",
+        "pl/sql",
+        "plsql"
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "category": "AI & Data Science",
+      "aliases": [
+        "scikit-learn",
+        "sklearn",
+        "scikit learn",
+        "scikitlearn"
+      ]
+    },
+    {
+      "name": "NumPy",
+      "category": "AI & Data Science",
+      "aliases": [
+        "numpy",
+        "np"
+      ]
+    },
+    {
+      "name": "SciPy",
+      "category": "AI & Data Science",
+      "aliases": [
+        "scipy"
+      ]
+    },
+    {
+      "name": "PyTorch",
+      "category": "AI & Data Science",
+      "aliases": [
+        "pytorch",
+        "torch"
+      ]
+    },
+    {
+      "name": "TensorFlow",
+      "category": "AI & Data Science",
+      "aliases": [
+        "tensorflow",
+        "tf"
+      ]
+    },
+    {
+      "name": "Keras",
+      "category": "AI & Data Science",
+      "aliases": [
+        "keras"
+      ]
+    },
+    {
+      "name": "XGBoost",
+      "category": "AI & Data Science",
+      "aliases": [
+        "xgboost",
+        "xgb"
+      ]
+    },
+    {
+      "name": "Matplotlib",
+      "category": "AI & Data Science",
+      "aliases": [
+        "matplotlib",
+        "plt"
+      ]
+    },
+    {
+      "name": "Seaborn",
+      "category": "AI & Data Science",
+      "aliases": [
+        "seaborn",
+        "sns"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "category": "BI & Analytics",
+      "aliases": [
+        "tableau"
+      ]
+    },
+    {
+      "name": "Power BI",
+      "category": "BI & Analytics",
+      "aliases": [
+        "power bi",
+        "powerbi"
+      ]
+    },
+    {
+      "name": "Excel",
+      "category": "General",
+      "aliases": [
+        "excel",
+        "ms excel",
+        "microsoft excel"
+      ]
+    },
+    {
+      "name": "BigQuery",
+      "category": "Databases",
+      "aliases": [
+        "bigquery",
+        "google bigquery",
+        "bq"
+      ]
+    },
+    {
+      "name": "Spark",
+      "category": "Data Engineering",
+      "aliases": [
+        "spark",
+        "apache spark",
+        "pyspark"
+      ]
+    },
+    {
+      "name": "MLflow",
+      "category": "MLOps",
+      "aliases": [
+        "mlflow"
+      ]
+    },
+    {
+      "name": "Hugging Face / Transformers",
+      "category": "AI & Data Science",
+      "aliases": [
+        "hugging face / transformers",
+        "transformers",
+        "hugging face",
+        "huggingface",
+        "sentence-transformers"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "category": "AI & Data Science",
+      "aliases": [
+        "statistics",
+        "stats",
+        "statistical analysis",
+        "statistical testing"
+      ]
+    }
+  ],
+  "related_skills": {
+    "FastAPI": {
+      "Flask": 0.65,
+      "Django": 0.6
+    },
+    "Flask": {
+      "FastAPI": 0.65,
+      "Django": 0.6
+    },
+    "Django": {
+      "FastAPI": 0.6,
+      "Flask": 0.6
+    },
+    "PostgreSQL": {
+      "MySQL": 0.7,
+      "SQLite": 0.6,
+      "SQL": 0.75,
+      "Oracle": 0.6
+    },
+    "MySQL": {
+      "PostgreSQL": 0.7,
+      "SQLite": 0.6,
+      "SQL": 0.75,
+      "Oracle": 0.6
+    },
+    "SQLite": {
+      "PostgreSQL": 0.6,
+      "MySQL": 0.6,
+      "SQL": 0.75
+    },
+    "Docker": {
+      "Kubernetes": 0.6
+    },
+    "Kubernetes": {
+      "Docker": 0.6
+    },
+    "AWS": {
+      "GCP": 0.7,
+      "Azure": 0.7
+    },
+    "GCP": {
+      "AWS": 0.7,
+      "Azure": 0.7
+    },
+    "Azure": {
+      "AWS": 0.7,
+      "GCP": 0.7
+    },
+    "REST APIs": {
+      "GraphQL": 0.6
+    },
+    "GraphQL": {
+      "REST APIs": 0.6
+    },
+    "Pandas": {
+      "Machine Learning": 0.6,
+      "NumPy": 0.4
+    },
+    "Node.js": {
+      "FastAPI": 0.4,
+      "Express": 0.85
+    },
+    "Spring Boot": {
+      "Spring Framework": 0.6,
+      "Spring MVC": 0.6,
+      "Spring Data JPA": 0.6,
+      "Struts": 0.5
+    },
+    "Spring Framework": {
+      "Spring Boot": 0.6
+    },
+    "Spring MVC": {
+      "Spring Boot": 0.6
+    },
+    "Spring Data JPA": {
+      "Spring Boot": 0.6,
+      "JPA": 0.85,
+      "Hibernate": 0.8
+    },
+    "Struts": {
+      "Spring Boot": 0.5
+    },
+    "JPA": {
+      "Hibernate": 0.8,
+      "Spring Data JPA": 0.85,
+      "JDBC": 0.6
+    },
+    "Hibernate": {
+      "JPA": 0.8,
+      "Spring Data JPA": 0.8,
+      "JDBC": 0.6
+    },
+    "JDBC": {
+      "JPA": 0.6,
+      "Hibernate": 0.6
+    },
+    "Kafka": {
+      "Message Queues": 0.8,
+      "RabbitMQ": 0.7
+    },
+    "Message Queues": {
+      "Kafka": 0.8,
+      "RabbitMQ": 0.8
+    },
+    "RabbitMQ": {
+      "Message Queues": 0.8,
+      "Kafka": 0.7
+    },
+    "Jenkins": {
+      "CI/CD": 0.75
+    },
+    "CI/CD": {
+      "Jenkins": 0.75
+    },
+    "JUnit": {
+      "Mockito": 0.6,
+      "Pytest": 0.5
+    },
+    "Mockito": {
+      "JUnit": 0.6
+    },
+    "Pytest": {
+      "JUnit": 0.5
+    },
+    "Maven": {
+      "Gradle": 0.7
+    },
+    "Gradle": {
+      "Maven": 0.7
+    },
+    "Kotlin": {
+      "Java": 0.7
+    },
+    "Java": {
+      "Kotlin": 0.7
+    },
+    "Oracle": {
+      "PostgreSQL": 0.6,
+      "MySQL": 0.6,
+      "SQL": 0.75
+    },
+    "SQL": {
+      "Oracle": 0.75
+    },
+    "scikit-learn": {
+      "Machine Learning": 0.7,
+      "XGBoost": 0.7
+    },
+    "XGBoost": {
+      "Machine Learning": 0.7,
+      "scikit-learn": 0.7
+    },
+    "PyTorch": {
+      "Machine Learning": 0.7,
+      "TensorFlow": 0.7,
+      "Keras": 0.6
+    },
+    "TensorFlow": {
+      "Machine Learning": 0.7,
+      "PyTorch": 0.7,
+      "Keras": 0.8
+    },
+    "Keras": {
+      "TensorFlow": 0.8,
+      "PyTorch": 0.6,
+      "Machine Learning": 0.7
+    },
+    "NumPy": {
+      "Pandas": 0.4,
+      "SciPy": 0.6
+    },
+    "SciPy": {
+      "NumPy": 0.6
+    },
+    "Tableau": {
+      "Power BI": 0.8
+    },
+    "Power BI": {
+      "Tableau": 0.8
+    },
+    "Matplotlib": {
+      "Seaborn": 0.8
+    },
+    "Seaborn": {
+      "Matplotlib": 0.8
+    },
+    "Machine Learning": {
+      "scikit-learn": 0.7,
+      "PyTorch": 0.7,
+      "TensorFlow": 0.7,
+      "XGBoost": 0.7
+    },
+    "Hugging Face / Transformers": {
+      "NLP": 0.8
+    },
+    "NLP": {
+      "Hugging Face / Transformers": 0.8
+    }
+  }
+}

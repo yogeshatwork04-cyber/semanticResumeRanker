@@ -1,0 +1,38 @@
+Job Title: Senior Java Backend Developer (Spring Boot)
+
+About the Role
+We are looking for a Java Backend Developer to design, build and maintain
+scalable backend services for our fintech platform.
+
+Responsibilities
+- Design, develop and maintain REST APIs using Java and Spring Boot.
+- Build and deploy microservices that communicate through REST and message queues.
+- Write efficient SQL queries and manage relational databases such as MySQL and PostgreSQL.
+- Use Hibernate and JPA for data access and optimise database performance.
+- Write unit and integration tests using JUnit and Mockito.
+- Collaborate in CI/CD pipelines using Jenkins and Git.
+- Troubleshoot production issues and improve system reliability.
+
+Required Skills
+- Java
+- Spring Boot
+- REST APIs
+- SQL
+- Hibernate / JPA
+- Microservices
+- JUnit
+- Git
+- Maven
+
+Preferred Skills
+- Docker
+- Kubernetes
+- AWS
+- Kafka
+- Redis
+- Jenkins
+- CI/CD
+
+Qualifications
+- Minimum 3 years of experience in backend development with Java.
+- Bachelor's degree in Computer Science, Engineering or a related field.

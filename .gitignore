@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.cache/
+.coverage
+htmlcov/
+
+# Environments & Virtual Envs
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+
+# Databases & Local Storage
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Node & Frontend Build Artifacts
+node_modules/
+dist/
+build/
+.npm/
+
+# Model Caches
+hf_cache/
+transformers_cache/
+sentence_transformers/
+.spacy/
+
+# OS & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
