@@ -66,7 +66,7 @@ Built with **zero external LLM/API dependencies** — all natural language proce
 | Layer | Technologies |
 |:---|:---|
 | **Frontend** | React 18, Vite, TypeScript, Tailwind CSS, Recharts, Lucide Icons |
-| **Backend** | Python 3.11+, FastAPI, Pydantic v2, SQLAlchemy 2.0 |
+| **Backend** | Python 3.12+, FastAPI, Pydantic v2, SQLAlchemy 2.0 |
 | **NLP & ML** | `sentence-transformers` (`all-MiniLM-L6-v2`, CPU), `spaCy` (`en_core_web_sm`) with `PhraseMatcher` |
 | **Document Parsing** | `pdfplumber`, `python-docx` |
 | **Database** | SQLite (default development), PostgreSQL (via `DATABASE_URL` in Docker/production) |
@@ -128,6 +128,8 @@ flowchart TD
 ## Quick Start
 
 ### Option A: Local Setup (Without Docker)
+
+Tested with Python 3.12.3.
 
 #### 1. Backend Setup
 
