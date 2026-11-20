@@ -269,6 +269,33 @@ docker compose up --build
 └── README.md
 ```
 
+## Matching Algorithm
+
+The system ranks candidates using a deterministic, weighted scoring algorithm combining skill matching, semantic similarity, experience, education, and project relevance.
+
+### Scoring Breakdown
+
+| Factor | Weight |
+|---|---:|
+| Skills Match | 40% |
+| Semantic Similarity | 25% |
+| Experience | 20% |
+| Education | 10% |
+| Projects | 5% |
+| **Total** | **100%** |
+
+The final score is calculated as a weighted combination of these five components.
+
+- **Skills Matching:** Evaluates required and preferred skills, distinguishing between skills demonstrated through work experience and skills mentioned only in the resume's skills section.
+- **Semantic Similarity:** Captures contextual relevance between the job description and candidate profile beyond exact keyword matching.
+- **Experience:** Evaluates relevant experience against the job's experience requirements.
+- **Education:** Compares the candidate's educational qualifications against the specified requirement.
+- **Projects:** Considers the relevance of the candidate's projects to the role.
+
+The scoring is deterministic and does not rely on LLM-generated scores, making candidate rankings reproducible and explainable.
+
+For the complete mathematical formulation, component-level calculations, edge cases, calibration details, and keyword-stuffing logic, see the **[Algorithmic Specification](docs/ALGORITHM.md)**.
+
 ---
 
 ## Testing & Quality Assurance
